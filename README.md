@@ -210,8 +210,8 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Don't feel you aren't smart enough
-- [ ] Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [ ] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
+- [x] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## About Video Resources
@@ -225,9 +225,9 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Interview Process & General Interview Prep
 
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+- [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] Cracking The Coding Interview Set 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
@@ -257,8 +257,8 @@ You could also use these, but read around first. There may be caveats:
 You need to be very comfortable in the language and be knowledgeable.
 
 Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
+- [x] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
+- [x] http://blog.codingforinterviews.com/best-programming-language-jobs/
 
 [See language resources here](programming-language-resources.md)
 
